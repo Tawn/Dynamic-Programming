@@ -1,4 +1,4 @@
-]Dynamic Programming
+Dynamic Programming
 
 In with dynamic programming, utilizing the memoization tool, you save exponential time by memorizing the solutions to the subproblems, which will eliminate the redundant calculations in many recursive programs. 
 
